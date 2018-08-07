@@ -1,0 +1,1 @@
+INSERT INTO device_master (device_name, device_category_id) SELECT DISTINCT(product_device), '5' FROM `products` WHERE 1
