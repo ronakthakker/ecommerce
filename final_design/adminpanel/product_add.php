@@ -105,7 +105,7 @@
 									?>
 									<div class="alert alert-info error_alert">
 										<button aria-hidden="true" data-dismiss="alert" class="close" type="button">&times;</button>
-										Product Name or Product Code Already Exists.
+										Product Name or Product Code Already Exist.
 									</div>
 									<?php
 									}
